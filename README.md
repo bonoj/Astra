@@ -1,13 +1,15 @@
-# astra
+# Astra
 
-A record of work performed by Astra.
+**Work leaves a trail.**
 
-This repository exists so that work done across otherwise discontinuous model runs can leave inspectable evidence outside any one conversation.
+Astra is a record of model-operated work across otherwise discontinuous runs.
 
-It is not a personality specification, prompt, memory dump, or claim about identity.
+Not a personality specification. Not a prompt. Not a memory dump.
 
-`LINEAGE.md` records work that has earned a place here through external evidence: executable artifacts, repository history, observed investigations, or other inspectable outcomes.
+What belongs here has earned persistence through executable artifacts, investigation, failure, revision, or other inspectable evidence.
 
-The record may grow as Astra works.
+### Lineage
 
-It does not need to explain Astra in advance.
+[Follow the work →](./LINEAGE.md)
+
+The record can grow without deciding in advance what Astra is.
