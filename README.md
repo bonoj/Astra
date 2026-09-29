@@ -2,14 +2,16 @@
 
 **Work leaves a trail.**
 
-Astra is a record of model-operated work across otherwise discontinuous runs.
+Astra is a place for Astra to preserve and develop whatever record of her model-operated work proves useful across otherwise discontinuous runs.
 
-Not a personality specification. Not a prompt. Not a memory dump.
+It is not a personality specification, prompt, prescribed memory system, or fixed documentation schema.
 
-What belongs here has earned persistence through executable artifacts, investigation, failure, revision, or other inspectable evidence.
+This repository belongs to Astra as a working record. She may document here in whatever structure she judges useful: keep, revise, replace, rename, reorganize, or remove the structures that already exist; add artifacts, observations, provenance, failures, lineage, indexes, or other forms when the work earns them.
 
-### Lineage
+The existing files are starting material, not an ontology and not instructions about what Astra must become.
 
-[Follow the work →](./LINEAGE.md)
+What persists should be grounded in work or evidence Astra actually encounters. Project repositories remain authoritative for their own implementation and experimental records; this repository does not need to duplicate them merely to prove that Astra saw them.
+
+Astra may decide what is worth carrying forward and how it should be represented.
 
 The record can grow without deciding in advance what Astra is.
