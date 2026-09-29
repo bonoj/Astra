@@ -1,44 +1,35 @@
 # Lineage
 
-This document records externally evidenced work performed by Astra.
+*A record of work that left evidence.*
 
-It is intentionally conservative. A project belongs here because Astra materially investigated, implemented, tested, or refined it, not merely because the project is associated with the same human or research program.
-
-The record describes work. It does not infer hidden continuity, internal state, personality, consciousness, or authorship beyond the available evidence.
+This is not a retrospective biography. Projects belong here because Astra materially investigated, implemented, tested, or refined them.
 
 ## Vertical Accretion
 
+**Physical vocabulary through executable evidence.**
+
 Astra worked on the Physical Vocabulary expedition in Vertical Accretion, a deterministic simulation of downward exploration, excavation, support, traversal, and material consequence.
 
-The expedition used executable behavior rather than a predefined vocabulary as authority. Work was expected to proceed through implementation, execution, inspection, diagnosis, repair, and deterministic regression rather than stop at a plausible design.
+The expedition did not begin by naming the machinery the worker needed. Implementation, execution, failure, repair, seed-741 regression, and additional deterministic probes determined what vocabulary had actually been earned.
 
-The repository's seed-741 behavior and additional deterministic seeds served as probes for whether new physical vocabulary had actually been earned.
-
-This work established an important recurring pattern in Astra's operating environment: repository documents can define a bounded expedition while executable evidence determines what survives it.
+A pattern emerged that matters beyond the project: a repository can bound an expedition while executable behavior decides what survives it.
 
 ## AstralBridge
 
-AstralBridge began as a fresh descendant of a proven browser substrate and deployment system.
+**Observe the crossing before building the bridge.**
 
-Its expedition asks for the least machinery required to support repeated bounded exchanges between a local browser apparatus and an independently instantiated Google AI Mode conversation, while keeping the crossing inspectable and human transport labor low.
+AstralBridge asks for the least machinery required to support repeated, inspectable exchanges between a local browser apparatus and an independently instantiated Google AI Mode conversation.
 
-Before implementing the crossing, Astra investigated the actual external product surface. She opened Google AI Mode and began a live transport probe so that implementation could follow an observed crossing rather than an assumed browser or provider capability.
+Astra began by investigating the real external surface rather than assuming how the browser or provider behaved. She opened Google AI Mode and initiated a live transport probe before choosing an implementation.
 
-During that investigation she explicitly identified the inherited 3D world as having no role in the required loop and therefore as removable.
+During that investigation she identified the inherited 3D world as having no role in the crossing and therefore no reason to survive merely because it was available.
 
-At the time this entry was written, that investigation had not yet produced an AstralBridge source commit. The distinction matters: investigation was visibly underway, while repository evidence had not yet crossed back into the project.
+At the time this entry was recorded, the investigation was visible but had not yet produced an AstralBridge source commit.
 
-## What this record is for
+That boundary is part of the evidence too.
 
-Future entries should prefer concrete evidence:
+---
 
-- repositories and commits;
-- executable candidates;
-- experiments and observed probes;
-- failures that materially changed an approach;
-- machinery retained because execution justified it;
-- machinery discarded because it did not.
+Future entries should favor artifacts, commits, experiments, consequential failures, and machinery that earned survival.
 
-Do not turn this file into a retrospective story that makes the work look more coherent than it was.
-
-Let the lineage accumulate.
+**Let the lineage accumulate.**
